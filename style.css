@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 181, 212);
+    color: rgb(160, 62, 251);
+}
+
+.heading{
+    font-size: 30px;
+    width: 80%;
+    color: rgb(20, 220, 203);
+}
+
+.objectlist{
+    color: rgb(255, 20, 204);
+    font-size: 20px;
+}
+
+#camera{
+    border: rgb(251, 113, 182) 2px solid;
+    width: 300px;
+    height: 300px;
+}
+
+#objectname,#acuracy{
+    color: indianred;
+    font-size: 15px;
+    
+}
